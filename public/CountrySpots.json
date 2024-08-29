@@ -1,0 +1,122 @@
+[
+    {
+        "id": "01",
+        "tourists_spot_name": "Sagrada Família",
+        "image": "https://i.ibb.co/pw19221/Sagrada-Familia-Barcelona-Spain-A-large-Roman.jpg",
+        "country_name": "Spain",
+        "location": "Barcelona",
+        "average_cost": "20000",
+        "seasonality": "Winter",
+        "short_description": "The Sagrada Família is an iconic basilica located in Barcelona, Spain. Designed by the famous architect Antoni Gaudí, this extraordinary structure is renowned for its unique and intricate architectural style that combines Gothic and Art Nouveau elements. Construction of the Sagrada Família began in 1882 and continues to this day, making it one of the longest-running architectural projects in the world. The basilica is a UNESCO World Heritage site and one of the most visited landmarks in Barcelona, attracting millions of visitors each year who come to admire its stunning facades, detailed sculptures, and the breathtaking interior filled with natural light from its stained glass windows.",
+        "more_images": [
+            "https://i.ibb.co/gmp5dRq/Sagrada-Fam-lia-Barcelona.jpg",
+            "https://i.ibb.co/tpc0Chk/Barcelona-Sagrada-Fam-lia.jpg",
+            "https://i.ibb.co/p1QXRqN/Barcelona-la-Sagrada-Fam-lia-En-construcci.jpg"
+        ]
+    },
+    {
+        "id": "02",
+        "tourists_spot_name": "Plaza de España",
+        "image": "https://i.ibb.co/JjCVLfq/Explore-Plaza-de-Espa-a-in-Seville.jpg",
+        "country_name": "Spain",
+        "location": "Seville",
+        "average_cost": "18000",
+        "seasonality": "Year-Round",
+        "short_description": "Plaza de España is a grand square located in Seville, Spain. Designed by architect Aníbal González, it was built for the Ibero-American Exposition of 1929. The plaza features a semi-circular building with a large, decorative fountain at its center and is surrounded by a series of bridges over a canal. The building’s façade is adorned with colorful ceramic tiles representing different provinces of Spain. Plaza de España is renowned for its stunning architectural design, its expansive open space, and its beautiful tile work. It’s a popular spot for both tourists and locals, offering picturesque views and a charming atmosphere.",
+        "more_images": [
+            "https://i.ibb.co/DgB6q5K/Plaza-de-Espa-a-in-Seville-Spain.jpg",
+            "https://i.ibb.co/SXcMxCG/Plaza-de-Espana-in-Seville-during-Sunset-Andalusia-royalty-free-stock-photo.jpg",
+            "https://i.ibb.co/RhcNmjD/Long-exposure-of-The-Plaza-de-Espana-Seville-Spain-stock-photo.jpg"
+        ]
+    },
+    {
+        "id": "03",
+        "tourists_spot_name": "The Royal Crescent",
+        "image": "https://i.ibb.co/7KYB96j/A-rare-townhouse-on-Bath-s-Royal-Crescent-goes-up-for-sale.jpg",
+        "country_name": "United Kingdom",
+        "location": "Bath",
+        "average_cost": "15000",
+        "seasonality": "Winter",
+        "short_description": "The Royal Crescent is a sweeping, crescent-shaped row of Georgian townhouses located in Bath, England. Designed by architect John Wood the Younger and completed in 1774, this iconic architectural masterpiece consists of 30 terraced houses with a distinctive curved façade. The Royal Crescent is renowned for its elegant symmetry and classical design, characterized by its uniform honey-colored Bath stone and grand, pillared entranceways. The crescent overlooks a lush, expansive lawn and is considered one of the finest examples of Georgian architecture in the UK. It is a central feature of Bath’s architectural heritage and a must-see for visitors to the city.",
+        "more_images": [
+            "https://i.ibb.co/vmYrDhZ/Review-The-Royal-Crescent-Hotel-Bath-AGLAIA.jpg",
+            "https://i.ibb.co/sWrXr2V/Bath-Georgian-city-in-Britain.jpg",
+            "https://i.ibb.co/88K2WXC/A-Day-In-Bath-One-Day-In-Bath-Carpe-Diem-Eire.jpg"
+        ]
+    },
+    {
+        "id": "04",
+        "tourists_spot_name": "Windermere",
+        "image": "https://i.ibb.co/Fb3HxKV/Lake-Windermere-Lake-District-National-Park-England-Photography-Print.jpg",
+        "country_name": "UK",
+        "location": "Cumbria",
+        "average_cost": "17000",
+        "seasonality": "Year-Round",
+        "short_description": "Windermere is a charming town located in the Lake District of Cumbria, England. It is situated near the largest natural lake in England, Lake Windermere, which stretches over 10 miles long. The town is a popular destination for visitors seeking outdoor activities such as boating, hiking, and exploring the picturesque landscapes of the Lake District. Windermere offers a range of accommodations, shops, and restaurants, making it a convenient base for exploring the surrounding natural beauty. Its scenic views, vibrant local culture, and proximity to attractions like the Beatrix Potter Museum and the scenic hills make Windermere a delightful and picturesque destination.",
+        "more_images": [
+            "https://i.ibb.co/sCnhCfK/Things-To-Do-Around-Lake-Windermere-A-Lake-District-Trip-Guide.jpg",
+            "https://i.ibb.co/cDVgWrB/Lake-District-National-Park-UK-Travel-Enjoy.jpg",
+            "https://i.ibb.co/sy6QTd9/11-Amazing-Things-to-do-in-Windermere.jpg"
+        ]
+    },
+    {
+        "id": "05",
+        "tourists_spot_name": "Chapel Bridge",
+        "image": "https://i.ibb.co/JvhB0tK/FROM-LUXE-WITH-LOVE.jpg",
+        "country_name": "Switzerland",
+        "location": "Lucerne",
+        "average_cost": "25000",
+        "seasonality": "Winter",
+        "short_description": "Chapel Bridge (Kapellbrücke) is a historic wooden bridge spanning the Reuss River in Lucerne, Switzerland. Built in the 14th century, it is one of the oldest covered wooden bridges in Europe and a prominent landmark in the city. The bridge is renowned for its unique roof structure and the series of 17th-century paintings depicting scenes from Lucerne’s history that once adorned its interior. Chapel Bridge connects the old town with the newer parts of Lucerne and is an iconic symbol of the city. Its picturesque setting, with views of the surrounding mountains and the river, makes it a popular spot for visitors and photographers.",
+        "more_images": [
+            "https://i.ibb.co/4KXMrWV/Viking-on-Instagram-From-a-leisurely-stroll.jpg",
+            "https://i.ibb.co/4Wq5Cjf/Switzerland.jpg",
+            "https://i.ibb.co/bF4C4V5/The-Serenity-of-Chapel-Bridge-in-Lucerne-Switzerland.jpg"
+        ]
+    },
+    {
+        "id": "06",
+        "tourists_spot_name": "Yosemite Valley",
+        "image": "https://i.ibb.co/Gn31nyZ/Yosemite-Valley.jpg",
+        "country_name": "USA",
+        "location": "California",
+        "average_cost": "28000",
+        "seasonality": "Year-Round",
+        "short_description": "Yosemite Valley is a stunning glacial valley located in Yosemite National Park, California, USA. Known for its breathtaking natural beauty, the valley is surrounded by towering granite cliffs, including the iconic El Capitan and Half Dome. It is also home to several spectacular waterfalls, such as Yosemite Falls and Bridalveil Fall. The valley offers a range of outdoor activities, including hiking, rock climbing, and wildlife viewing, and is renowned for its scenic vistas and natural landmarks. With its lush meadows, clear streams, and impressive geological features, Yosemite Valley is a central highlight of Yosemite National Park and a must-visit destination for nature enthusiasts.",
+        "more_images": [
+            "https://i.ibb.co/bF4C4V5/The-Serenity-of-Chapel-Bridge-in-Lucerne-Switzerland.jpg",
+            "https://i.ibb.co/0XcNGtJ/Yosemite-Know-Before-You-Go-My-Travel-Obsession.jpg",
+            "https://i.ibb.co/XyDRWhq/The-glow-of-warmer-colors.jpg"
+        ]
+    },
+    {
+        "id": "07",
+        "tourists_spot_name": "Niagara Falls",
+        "image": "https://i.ibb.co/kxX8bBj/7-Places-To-Get-The-Best-View-Of-Niagara-Falls.jpg",
+        "country_name": "Canada",
+        "location": "Ontario",
+        "average_cost": "30000",
+        "seasonality": "Summer",
+        "short_description": "Niagara Falls is a world-renowned natural attraction located on the border between the United States and Canada. The city is famous for its stunning waterfalls, which include the Horseshoe Falls on the Canadian side and the American Falls on the U.S. side. These powerful cascades are among the largest and most spectacular in the world. The area offers various viewing points, boat tours such as the Maid of the Mist, and attractions like the Cave of the Winds. In addition to the falls, the city features vibrant entertainment options, hotels, and dining experiences. Niagara Falls is a popular destination for tourists seeking awe-inspiring natural beauty and an array of leisure activities.",
+        "more_images": [
+            "https://i.ibb.co/ZgLyMs8/Niagara-Falls-Canada-and-USA-A-Complete-Guide.jpg",
+            "https://i.ibb.co/R3r9pQ3/Niagara-Falls-4-Mistakes-to-Avoid-What-to-do-Instead-The-Family-Voyage.jpg",
+            "https://i.ibb.co/Lv0jCT2/Top-10-Instagrammable-Spots-in-Niagara-Falls.jpg"
+        ]
+    },
+    {
+        "id": "08",
+        "tourists_spot_name": "Kingdom Centre",
+        "image": "https://i.ibb.co/7KJMGhR/AECOM-AECOM.jpg",
+        "country_name": "Saudi Arabia",
+        "location": "Riyadh",
+        "average_cost": "15000",
+        "seasonality": "Year-Round",
+        "short_description": "Kingdom Centre is a striking skyscraper located in Riyadh, Saudi Arabia. Completed in 2002, it is one of the tallest and most iconic buildings in the city, standing at 302 meters (991 feet). The building is known for its unique and futuristic design, featuring a distinctive arched top that is illuminated at night. The Kingdom Centre houses a luxury hotel, office spaces, and high-end retail shops. At its top, it offers a sky bridge with panoramic views of Riyadh, providing visitors with an impressive perspective of the city’s skyline and surrounding areas. The Kingdom Centre is a symbol of Riyadh’s modern architectural achievements and a key landmark in the city.",
+        "more_images": [
+            "https://i.ibb.co/r7DsBb0/83484086-b109-46a2-aaa1-9f48b8c86b32.jpg",
+            "https://i.ibb.co/TmL4qJF/Kingdom-Tower-Riyadh-Saudi-Arabia.jpg",
+            "https://i.ibb.co/2PfqZ0m/Riyadh-Low-clouds-spotted-passing-through-the.jpg"
+        ]
+    }
+]

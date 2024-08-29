@@ -1,0 +1,104 @@
+[
+    {
+        "id": "01",
+        "tourists_spot_name": "Cox's Bazar",
+        "image": "https://i.ibb.co/9qnQTCY/Saint-martin-Bangladesh.jpg",
+        "country_name": "Bangladesh",
+        "location": "Chittagang",
+        "average_cost": "$3500",
+        "seasonality": "Summer, Winter",
+        "travel_time": "Afternoon",
+        "totalVisitorsPerYear": "150000",
+        "short_description": "Cox's Bazar is a coastal city in southeastern Bangladesh, renowned for having the world's longest natural sandy sea beach, stretching over 120 kilometers. It's a popular tourist destination, known for its vibrant beach culture, clear blue waters, and picturesque sunsets. The city is also a gateway to the nearby St. Martin's Island and the Himchari National Park, making it a hub for nature enthusiasts. Rich in cultural diversity, Cox's Bazar has a bustling local market and offers a variety of seafood delicacies, attracting both domestic and international visitors.",
+        "more_images": [
+            "https://i.ibb.co/y5LVPM8/Worlds-Longest-Sea-Beach-Cox-s-Bazar.jpg",
+            "https://i.ibb.co/Q6JmG2c/Cox-s-Bazar-Sea-Beach-Sugandha-Beach-The-Longest-Sea-Beach-in-The-World-Cox-s-Bazar-Tour.jpg",
+            "https://i.ibb.co/Y7Lh3xb/Sea-Pearl-Beach-Resort-Spa-Cox-s-Bazar.jpg"
+        ]
+    },
+    {
+        "id": "02",
+        "tourists_spot_name": "Rangamati",
+        "image": "https://i.ibb.co/9TVjfNh/Rangamti.jpg",
+        "country_name": "Bangladesh",
+        "location": "Chittagang",
+        "average_cost": "$3000",
+        "seasonality": "Summer, Winter",
+        "travel_time": "Afternoon",
+        "totalVisitorsPerYear": "100000",
+        "short_description": "Rangamati is a scenic city in southeastern Bangladesh, located in the Chittagong Hill Tracts. Known as the 'Lake City of Bangladesh,' it's surrounded by lush hills, dense forests, and the vast Kaptai Lake, the largest man-made lake in the country. Rangamati is a popular destination for its tranquil environment, with opportunities for boating, hiking, and exploring indigenous cultures. The city is home to diverse ethnic communities, including the Chakma, Marma, and Tripura people, contributing to its rich cultural tapestry. Notable attractions include the Hanging Bridge, Peda Ting Ting Island, and the Rajban Bihar Buddhist Monastery.",
+        "more_images": [
+            "https://i.ibb.co/nzsXYtC/Kaptai-lake.jpg",
+            "https://i.ibb.co/fQ2kS8h/Rangamati-Shafin-52.jpg",
+            "https://i.ibb.co/Z1jsdPW/Welcome-to-Kaptai-Lake.jpg"
+        ]
+    },
+    {
+        "id": "03",
+        "tourists_spot_name": "Jaflong",
+        "image": "https://i.ibb.co/gmdxQ3V/Jaflong-daughter-of-nature.jpg",
+        "country_name": "Bangladesh",
+        "location": "Sylhet",
+        "average_cost": "$2000",
+        "seasonality": "Year-Round",
+        "travel_time": "Morning",
+        "totalVisitorsPerYear": "25000",
+        "short_description": "Jaflong, located in the Sylhet division of northeastern Bangladesh, is a picturesque tourist destination known for its stunning natural beauty. Nestled along the border with India, Jaflong is famous for its lush tea gardens, crystal-clear rivers, and the majestic view of the Meghalaya hills. The area is a hotspot for eco-tourism, offering visitors the chance to see stone collection activities along the Dawki River, visit the serene Jaflong Zero Point, and explore the local Khasi tribal villages. Jaflong is also renowned for its waterfalls, particularly during the monsoon season when the landscape becomes even more vibrant and lush.",
+        "more_images": [
+            "https://i.ibb.co/Z1HKyC5/Bangladesh-India-Border-Jaflong-Sylhet.jpg",
+            "https://i.ibb.co/vQ1vQfY/Blue-land-of-amazing-beauty-of-nature-land-of.jpg",
+            "https://i.ibb.co/s1JcPwC/Jaflong-daughter-of-nature.jpg"
+        ]
+    },
+    {
+        "id": "04",
+        "tourists_spot_name": "Petronas Twin Towers",
+        "image": "https://i.ibb.co/g4JJXFW/Discover-the-vibrant-city-of-Kuala-Lumpur-Malaysia.jpg",
+        "country_name": "Malaysia",
+        "location": "Kuala Lumpur",
+        "average_cost": "$10000",
+        "seasonality": "Year-Round",
+        "travel_time": "Afternoon",
+        "totalVisitorsPerYear": "200000",
+        "short_description": "The Petronas Twin Towers in Kuala Lumpur are an iconic symbol of Malaysia and were once the tallest buildings in the world, standing at 452 meters (1,483 feet) with 88 floors. These twin skyscrapers are a marvel of modern architecture, featuring a distinctive postmodern style with Islamic design elements, reflecting Malaysia's Muslim heritage. The towers are connected by a double-decker Skybridge on the 41st and 42nd floors, which offers stunning views of the city. The towers house offices, a shopping mall, and a concert hall, making them a major cultural and commercial hub in the heart of Kuala Lumpur.",
+        "more_images": [
+            "https://i.ibb.co/9G9xSr3/Petronas-Towers-Kuala-Lumpur-Malaysia.jpg",
+            "https://i.ibb.co/nR9QsR5/Petronas-Twin-Towers-in-Kuala-Lumpur.jpg",
+            "https://i.ibb.co/Gp66rSx/Petronas-Twin-Towers-in-Kuala-Lumpur-1.jpg"
+        ]
+    },
+    {
+        "id": "05",
+        "tourists_spot_name": "Palm Jumeirah",
+        "image": "https://i.ibb.co/XbnCmNN/Palm-Jumeirah-Man-Made-Wonder-Island.jpg",
+        "country_name": "United Aram Emirates",
+        "location": "Dubai",
+        "average_cost": "$5000",
+        "seasonality": "Year-Round",
+        "travel_time": "May-July",
+        "totalVisitorsPerYear": "100000",
+        "short_description": "Palm Jumeirah is a man-made island in Dubai, United Arab Emirates, renowned for its distinctive palm tree shape and luxury lifestyle. As one of the largest and most ambitious land reclamation projects in the world, it features a unique layout with a central trunk and a series of fronds extending outwards. The island is home to high-end resorts, including the iconic Atlantis The Palm, which offers a waterpark, an underwater aquarium, and a range of dining options. Palm Jumeirah boasts upscale residences, stylish hotels, and world-class amenities. The Palm Jumeirah Boardwalk and The Pointe provide scenic views, dining, and entertainment options. The island is connected to the mainland by a bridge and is a symbol of Dubai's innovative spirit and luxury living.",
+        "more_images": [
+            "https://i.ibb.co/16QcxpH/Palm-Jumeirah.jpg",
+            "https://i.ibb.co/DY1NK70/Amazing-Dubai-Tower-image.jpg",
+            "https://i.ibb.co/hYJfj7W/Beautiful-Place.jpg"
+        ]
+    },
+    {
+        "id": "06",
+        "tourists_spot_name": "Ha Long Bay",
+        "image": "https://i.ibb.co/nzWtSDP/Tour-Du-L-ch-H-Long-2-Ng-y-1-m-Vietnam-Booking.jpg",
+        "country_name": "Vietnam",
+        "location": "Hai Phong City",
+        "average_cost": "$15000",
+        "seasonality": "Spring",
+        "travel_time": "November",
+        "totalVisitorsPerYear": "50000",
+        "short_description": "Ha Long Bay, while geographically located in Quảng Ninh Province, is often associated with the nearby city of Hai Phong, the third-largest city in Vietnam and a major port in the northern region. Hai Phong, known as the 'City of Flame Trees' due to its vibrant flame trees that bloom in summer, serves as a gateway to Ha Long Bay. The city itself is a blend of historical French colonial architecture, bustling markets, and modern development. As an industrial hub, Hai Phong plays a significant role in Vietnam's economy, but it also offers cultural attractions like the Du Hang Pagoda and the beautiful Do Son Beach, making it a convenient starting point for travelers heading to the scenic Ha Long Bay.",
+        "more_images": [
+            "https://i.ibb.co/M24CGqR/The-world-s-biggest-drone-photo-and-video-sharing-platform.jpg",
+            "https://i.ibb.co/jg5SyD8/Hanoi-Halong-Sapa-With-Homestay-5-Days-Sapa-Tours-Sapa-Tour-From-Hanoi-2021.jpg",
+            "https://i.ibb.co/2KgDTFm/4a0a32c3-354c-47b5-adb2-6eafd4cc5d1b.jpg"
+        ]
+    }
+]
