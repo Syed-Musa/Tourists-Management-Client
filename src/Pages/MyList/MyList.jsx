@@ -24,7 +24,7 @@ const MyList = () => {
             <div className="bg-[url('https://i.ibb.co/jwh9PgT/breathtaking-shot-colosseum-amphitheatre-located-rome-italy.jpg')] bg-cover bg-fixed bg-black w-full h-[600px]">
                 <div className="hero-overlay opacity-90">
                     <p className="text-xl text-center font-mono uppercase tracking-widest text-white ml-6 pt-52">Wherever i go</p>
-                    <h2 className="text-6xl text-center font-bold mt-3 text-blue-900 uppercase ml-5"><span className="text-white">Our Favourite</span> Tours</h2>
+                    <h2 className="lg:text-6xl text-3xl text-center font-bold mt-3 text-blue-900 uppercase ml-5"><span className="text-white">Our Favourite</span> Tours</h2>
                 </div>
             </div>
             <div>
@@ -33,11 +33,11 @@ const MyList = () => {
                         {/* head */}
                         <thead>
                             <tr className="">
-                                <th className="text-[15px] font-medium font-serif">Del</th>
-                                <th className="text-[15px] font-medium font-serif">Image</th>
-                                <th className="text-[15px] font-medium font-serif">Spot Name</th>
-                                <th className="text-[15px] font-medium font-serif">Location</th>
-                                <th className="text-[15px] font-medium font-serif">Country</th>
+                                <th className="lg:text-[15px] text-[12px] font-medium font-serif">Del</th>
+                                <th className="lg:text-[15px] text-[12px] font-medium font-serif">Image</th>
+                                <th className="lg:text-[15px] text-[12px] font-medium font-serif">Spot Name</th>
+                                <th className="lg:text-[15px] text-[12px] font-medium font-serif">Location</th>
+                                <th className="lg:text-[15px] text-[12px] font-medium font-serif">Country</th>
                                 
                             </tr>
                         </thead>

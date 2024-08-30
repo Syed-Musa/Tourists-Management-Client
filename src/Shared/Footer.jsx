@@ -1,3 +1,4 @@
+import { FaFacebook, FaInstagram, FaLinkedin, FaPinterest } from "react-icons/fa6";
 
 const Footer = () => {
     return (
@@ -35,7 +36,19 @@ const Footer = () => {
                         </div>
                     </fieldset>
                 </form>
+                <div>
+                    <p className="text-2xl font-medium font-serif">Social Links:</p>
+                    <div>
+                        <a href="www.facebook.com" className="flex gap-2 items-center font-serif"><FaFacebook className="text-2xl"></FaFacebook> Facebook</a>
+                        <a href="www.instagram.com " className="flex gap-2 my-3 items-center font-serif"><FaInstagram className="text-2xl"></FaInstagram> Instagram</a>
+                        <a href="www.linkedin.com" className="flex gap-2 items-center font-serif"><FaLinkedin className="text-2xl"></FaLinkedin> Linkedin</a>
+                        <a href="www.pinterest.com" className="flex gap-2 items-center font-serif mt-3"><FaPinterest className="text-2xl"></FaPinterest> Pinterest</a>
+                    </div>
+                </div>
             </footer>
+                <div className="text-center bg-primary text-white font-bold p-2">
+                    <p>Copyright © {new Date().getFullYear()} - All right reserved by Tourists Management Service</p>
+                </div>
         </div>
     );
 };

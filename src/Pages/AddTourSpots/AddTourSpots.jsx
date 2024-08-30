@@ -47,7 +47,7 @@ const AddTourSpots = () => {
             <div className="bg-[url('https://i.ibb.co/jwh9PgT/breathtaking-shot-colosseum-amphitheatre-located-rome-italy.jpg')] bg-cover bg-fixed bg-black w-full h-[600px]">
                 <div className="hero-overlay opacity-90">
                     <p className="text-xl text-center font-mono uppercase tracking-widest text-white ml-6 pt-52">Create Tour Spots</p>
-                    <h2 className="text-6xl text-center font-bold mt-3 text-blue-900 uppercase ml-5"><span className="text-white">Created</span> Tours</h2>
+                    <h2 className="lg:text-6xl text-3xl text-center font-bold mt-3 text-blue-900 uppercase ml-5"><span className="text-white">Created</span> Tours</h2>
                 </div>
             </div>
 
