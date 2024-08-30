@@ -6,7 +6,7 @@ const MyList = () => {
     const [mylist, setMyList] = useState(listedSpots);
 
     const handleDelete = id => {
-        fetch(`http://localhost:5000/mylist/${id}`, {
+        fetch(`https://tourism-management-server-phi.vercel.app/mylist/${id}`, {
             method: 'DELETE'
         })
         .then(res => res.json())

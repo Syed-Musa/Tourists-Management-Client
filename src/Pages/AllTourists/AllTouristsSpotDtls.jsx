@@ -24,7 +24,7 @@ const AllTouristsSpotDtls = () => {
             country_name 
         };
     
-        fetch('http://localhost:5000/mylist', {
+        fetch('https://tourism-management-server-phi.vercel.app/mylist', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -59,7 +59,7 @@ const AllTouristsSpotDtls = () => {
     // const BookNow = ()=>{
     //     const value = { name: user.name, email:user.email, tourists_spot_name, image, location, country_name };
 
-    //     fetch('http://localhost:5000/mylist',{
+    //     fetch('https://tourism-management-server-phi.vercel.app/mylist',{
     //       method:'POST',
     //       headers:{
     //         'content-type':'application/json'

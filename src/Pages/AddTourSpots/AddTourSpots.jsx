@@ -19,7 +19,7 @@ const AddTourSpots = () => {
         const newTourSpot = {name, email, tourists_spot_name, country_name, seasonality, location, average_cost, travel_time, totalVisitorsPerYear, image, short_description}
         console.log(newTourSpot);
 
-        fetch('http://localhost:5000/addtourSpot', {
+        fetch('https://tourism-management-server-phi.vercel.app/addtourSpot', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const CountrySideSpots = () => {
     const [countrySideSpot, setCountrySideSpot] = useState([]);
     useEffect(()=> {
-        fetch('http://localhost:5000/countrySideSpot')
+        fetch('https://tourism-management-server-phi.vercel.app/countrySideSpot')
         .then(res => res.json())
         .then(data => setCountrySideSpot(data))
     }, []);

@@ -40,7 +40,7 @@ const SignUp = () => {
             const createdAt = res.user?.metadata?.creationTime;
             const lastLoginAt = res.user?.metadata?.lastLoginAt;
             const user = {email, createdAt: createdAt, lastLoginAt:lastLoginAt};
-            fetch('http://localhost:5000/user',{
+            fetch('https://tourism-management-server-phi.vercel.app/user',{
                 method: 'POST',
             headers: {
                 'content-type': 'application/json'

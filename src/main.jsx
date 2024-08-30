@@ -36,13 +36,13 @@ const router = createBrowserRouter([
       {
         path: '/touristsSpot/:id',
         element: <PrivateRoute><TouristsSpotDtls></TouristsSpotDtls></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/touristsSpot/${params.id}`)
+        loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/touristsSpot/${params.id}`)
       },
 
       {
         path: '/countrySideSpot/:id',
         element: <PrivateRoute><CountrySideSpotDtls></CountrySideSpotDtls></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/countrySideSpot/${params.id}`)
+        loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/countrySideSpot/${params.id}`)
       },
 
       {
@@ -53,25 +53,25 @@ const router = createBrowserRouter([
       {
         path: '/alltourists/:id',
         element: <PrivateRoute><AllTouristsSpotDtls></AllTouristsSpotDtls></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/alltourists/${params.id}`)
+        loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/alltourists/${params.id}`)
       },
 
       {
         path: '/addTourSpots',
         element: <PrivateRoute><AddTourSpots></AddTourSpots></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/addtourSpot/${params.id}`)
+        loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/addtourSpot/${params.id}`)
       },
 
       {
         path: '/mylist',
         element: <MyList></MyList>,
-        loader: () => fetch(`http://localhost:5000/mylist`)
+        loader: () => fetch(`https://tourism-management-server-phi.vercel.app/mylist`)
       },
 
       {
         path: '/updateTourSpots/:id',
         element: <UpdateTourSpots></UpdateTourSpots>,
-        loader: ({params})=> fetch(`http://localhost:5000/alltourists/${params.id}`)
+        loader: ({params})=> fetch(`https://tourism-management-server-phi.vercel.app/alltourists/${params.id}`)
       },
 
       {

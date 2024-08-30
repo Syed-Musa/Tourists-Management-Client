@@ -24,7 +24,7 @@ const TouristsSpotDtls = () => {
             country_name 
         };
     
-        fetch('http://localhost:5000/mylist', {
+        fetch('https://tourism-management-server-phi.vercel.app/mylist', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

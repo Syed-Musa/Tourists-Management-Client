@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const AllTourists = () => {
     const [alltourists, setAllTourists] = useState([]);
     useEffect(()=> {
-        fetch('http://localhost:5000/alltourists')
+        fetch('https://tourism-management-server-phi.vercel.app/alltourists')
         .then(res => res.json())
         .then(data => setAllTourists(data))
     }, []);
