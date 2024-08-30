@@ -5,7 +5,7 @@ const Footer = () => {
         <div className="mt-20">
             <footer className="footer bg-blue-900 text-white p-10">
                 <div>
-                    <img src="/public/Images/I_ll_Design_Your_Travel_Logo-removebg-preview.png" className="w-[60%]" alt="" />
+                    <img src="/Images/I_ll_Design_Your_Travel_Logo-removebg-preview.png" className="w-[60%]" alt="" />
                     <p>A Vacation tour and travel experience offers the perfect opportunity <br /> to explore new destinations, unwind, and immerse yourself in different <br /> cultures. Whether it’s a guided tour through historic cities, a beach <br /> getaway, or an adventure-filled journey through natural landscapes, <br /> a vacation tour is tailored to provide relaxation, discovery, and enjoyment.</p>
                 </div>
                 <nav className="mt-14">
