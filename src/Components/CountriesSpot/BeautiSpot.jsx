@@ -13,37 +13,38 @@ const BeautiSpot = () => {
     
     return (
         <div className="mt-28">
-            <p className="text-xl font-mono uppercase text-teal-500 ml-6 tracking-widest">Most Popular</p>
-            <h2 className="font-bold lg:text-6xl text-3xl uppercase text-blue-800 ml-5"><span className="text-teal-500">Travel</span> Countries</h2>
+            <p data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" className="text-xl font-mono uppercase text-teal-500 ml-6 tracking-widest">Most Popular</p>
+            <h2 data-aos="fade-right" data-aos-offset="500" data-aos-easing="ease-in-sine" className="font-bold lg:text-6xl text-3xl uppercase text-blue-800 ml-5"><span className="text-teal-500">Travel</span> Countries</h2>
             <div className="">
                 <div>
-                    <p className="lg:text-4xl text-2xl font-bold uppercase text-blue-800 mt-14 ml-5">Italy, Europe</p>
-                    <p className="text-gray-600 italic mt-5 ml-5">The country is renowned for its historical significance, being the birthplace of the Roman Empire <br /> and the Renaissance. Cities like Rome, Florence, Venice, and Milan are world-famous for their art, <br /> architecture, and cultural heritage. Italy boasts numerous UNESCO World Heritage Sites, from <br /> ancient ruins like the Colosseum and Pompeii to the masterpieces housed in the Vatican Museums.</p>
+                    <p data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" className="lg:text-4xl text-2xl font-bold uppercase text-blue-800 mt-14 ml-5">Italy, Europe</p>
+                    <p data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" className="text-gray-600 italic mt-5 ml-5">The country is renowned for its historical significance, being the birthplace of the Roman Empire <br /> and the Renaissance. Cities like Rome, Florence, Venice, and Milan are world-famous for their art, <br /> architecture, and cultural heritage. Italy boasts numerous UNESCO World Heritage Sites, from <br /> ancient ruins like the Colosseum and Pompeii to the masterpieces housed in the Vatican Museums.</p>
                     <div className="grid grid-cols-1 lg:grid-cols-3 mt-14 mb-10">
-                        <div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5 ">
+                        <div >
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5 ">
                                 <IoLocationOutline className="text-teal-500 text-2xl"></IoLocationOutline>
                                 <p className="text-xl">Rome</p>
                             </div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                                 <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                                 <p className="text-xl">Vanice</p>
                             </div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                                 <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                                 <p className="text-xl">San Marino</p>
                             </div>
                         </div>
+
                         <div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                                 <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                                 <p className="text-xl">Milan</p>
                             </div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                                 <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                                 <p className="text-xl">Perugia</p>
                             </div>
-                            <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                            <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                                 <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                                 <p className="text-xl">Austa</p>
                             </div>

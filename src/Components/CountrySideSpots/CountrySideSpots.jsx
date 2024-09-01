@@ -12,8 +12,8 @@ const CountrySideSpots = () => {
 
     return (
         <div className="lg:mt-28 mt-[550px]">
-            <p className="font-mono text-xl text-teal-500 uppercase tracking-widest ml-5">Top destination countries</p>
-            <h2 className="font-bold text-blue-900 uppercase ml-5 lg:text-5xl text-3xl mt-3">Popular <span className="text-teal-500">Destination</span></h2>
+            <p data-aos="fade-right" data-aos-duration="1000" className="font-mono text-xl text-teal-500 uppercase tracking-widest ml-5">Top destination countries</p>
+            <h2 data-aos="fade-right" data-aos-duration="1500" className="font-bold text-blue-900 uppercase ml-5 lg:text-5xl text-3xl mt-3">Popular <span className="text-teal-500">Destination</span></h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mt-14">
                 {

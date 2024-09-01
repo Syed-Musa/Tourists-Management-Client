@@ -77,10 +77,10 @@ const Login = () => {
 
     return (
         <div>
-            <div className="hero bg-base-200 min-h-screen bg-[url('https://i.ibb.co/MGFNk2D/Kolsay.jpg')] bg-cover">
+            <div data-aos="zoom-in" className="hero bg-base-200 min-h-screen bg-[url('https://i.ibb.co/MGFNk2D/Kolsay.jpg')] bg-cover">
                 <div className="hero-content flex-col">
 
-                    <div className="card bg-base-100 w-full bg-[url('https://i.ibb.co/MGFNk2D/Kolsay.jpg')] max-w-sm shrink-0 shadow-2xl">
+                    <div data-aos="zoom-in-up" className="card bg-base-100 w-full bg-[url('https://i.ibb.co/MGFNk2D/Kolsay.jpg')] max-w-sm shrink-0 shadow-2xl">
                         <form onSubmit={handleLogin} className="card-body">
                             <h2 className="text-3xl font-bold text-center uppercase text-white">Login Now</h2>
                             <div className="form-control">

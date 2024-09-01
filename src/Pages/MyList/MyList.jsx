@@ -9,14 +9,14 @@ const MyList = () => {
         fetch(`https://tourism-management-server-phi.vercel.app/mylist/${id}`, {
             method: 'DELETE'
         })
-        .then(res => res.json())
-        .then(data => {
-            if(data?.deletedCount > 0){
-                console.log('deleted successfully');
-                const remaininListed = mylist?.filter(listedSpots => listedSpots._id !== id);
-                setMyList(remaininListed);
-            }
-        })
+            .then(res => res.json())
+            .then(data => {
+                if (data?.deletedCount > 0) {
+                    console.log('deleted successfully');
+                    const remaininListed = mylist?.filter(listedSpots => listedSpots._id !== id);
+                    setMyList(remaininListed);
+                }
+            })
     }
 
     return (
@@ -38,22 +38,32 @@ const MyList = () => {
                                 <th className="lg:text-[15px] text-[12px] font-medium font-serif">Spot Name</th>
                                 <th className="lg:text-[15px] text-[12px] font-medium font-serif">Location</th>
                                 <th className="lg:text-[15px] text-[12px] font-medium font-serif">Country</th>
-                                
+
                             </tr>
                         </thead>
                         <tbody className="">
                             {
                                 mylist?.map(listedSpots => <tr key={listedSpots._id}>
-                                    <td><button onClick={()=> handleDelete(listedSpots?._id)} className="btn bg-red-700 text-white font-bold">X</button></td>
-                                    <td><img className="h-16 w-20" src={listedSpots?.image} alt="" /></td>
-                                    <td className="font-serif italic">{listedSpots?.tourists_spot_name}</td>
-                                    <td className="font-serif italic">{listedSpots?.location}</td>
-                                    <th className="font-serif italic">{listedSpots?.country_name}</th>
-                                    
+                                    <td data-aos="fade-right"
+                                        data-aos-offset="300"
+                                        data-aos-easing="ease-in-sine"><button onClick={() => handleDelete(listedSpots?._id)} className="btn bg-red-700 text-white font-bold">X</button></td>
+                                    <td data-aos="fade-right"
+                                        data-aos-offset="300"
+                                        data-aos-easing="ease-in-sine"><img className="h-16 w-20" src={listedSpots?.image} alt="" /></td>
+                                    <td data-aos="fade-right"
+                                        data-aos-offset="300"
+                                        data-aos-easing="ease-in-sine" className="font-serif italic">{listedSpots?.tourists_spot_name}</td>
+                                    <td data-aos="fade-right"
+                                        data-aos-offset="300"
+                                        data-aos-easing="ease-in-sine" className="font-serif italic">{listedSpots?.location}</td>
+                                    <th data-aos="fade-right"
+                                        data-aos-offset="300"
+                                        data-aos-easing="ease-in-sine" className="font-serif italic">{listedSpots?.country_name}</th>
+
                                 </tr>)
                             }
                         </tbody>
-                        
+
                     </table>
                 </div>
             </div>

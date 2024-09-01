@@ -11,35 +11,35 @@ const BeautiSpotExt = () => {
     return (
         <div>
             <div className="mr-6">
-                <h2 className="lg:text-4xl text-2xl font-bold uppercase text-blue-800 mt-14 ml-5">France, Europe</h2>
-                <p className="text-gray-600 italic mt-5 ml-5">French cuisine is celebrated worldwide, with an emphasis on fine dining, wine, cheese, and pastries. <br /> The country's culinary traditions are as diverse as its regions, each offering its own specialties. Whether <br /> exploring the medieval towns, skiing in the Alps, or relaxing on the Mediterranean beaches, France <br /> offers a wide array of experiences that reflect its status as a cultural and historical powerhouse in Europe.</p>
+                <h2 data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" className="lg:text-4xl text-2xl font-bold uppercase text-blue-800 mt-14 ml-5">France, Europe</h2>
+                <p data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine" className="text-gray-600 italic mt-5 ml-5">French cuisine is celebrated worldwide, with an emphasis on fine dining, wine, cheese, and pastries. <br /> The country's culinary traditions are as diverse as its regions, each offering its own specialties. Whether <br /> exploring the medieval towns, skiing in the Alps, or relaxing on the Mediterranean beaches, France <br /> offers a wide array of experiences that reflect its status as a cultural and historical powerhouse in Europe.</p>
 
                 <div className="grid grid-cols-1 lg:grid-cols-3 mt-14 mb-10">
                     <div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5 ">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5 ">
                             <IoLocationOutline className="text-teal-500 text-2xl"></IoLocationOutline>
                             <p className="text-xl">Paris</p>
                         </div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                             <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                             <p className="text-xl">Lyon</p>
                         </div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                             <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                             <p className="text-xl">Marseillie</p>
                         </div>
                     </div>
 
                     <div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                             <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                             <p className="text-xl">Bordeaux</p>
                         </div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                             <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                             <p className="text-xl">Normandiya</p>
                         </div>
-                        <div className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
+                        <div data-aos="fade-down" className="flex items-center text-gray-500 font-medium ml-4 gap-2 mb-5">
                             <IoLocationOutline className="text-teal-500 text-xl"></IoLocationOutline>
                             <p className="text-xl">Cannes</p>
                         </div>

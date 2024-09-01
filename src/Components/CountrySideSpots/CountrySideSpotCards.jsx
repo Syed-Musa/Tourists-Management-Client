@@ -8,7 +8,7 @@ const CountrySideSpotCards = ({countrySideSpot}) => {
     console.log(countrySideSpot);
 
     return (
-        <div>
+        <div data-aos="zoom-in" data-aos-duration="1000" >
             <div className="card bg-base-100 shadow-xl lg:ml-4 ml-0">
                 <figure>
                     <img className="h-80 w-full" src={image} alt="Tours Spot" />
