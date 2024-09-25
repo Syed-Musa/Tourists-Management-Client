@@ -20,7 +20,7 @@ const CountrySideSpots = () => {
                     countrySideSpot?.map(countrySideSpot => <CountrySideSpotCards key={countrySideSpot} countrySideSpot={countrySideSpot}></CountrySideSpotCards>)
                 }
             </div>
-            <Link to='/alltourists'><button className="btn bg-teal-500 text-white uppercase font-serif lg:ml-[550px] ml-40 mt-14 hover:text-teal-500 hover:bg-white">See More</button></Link>
+            <Link to='/alltourists'><button className="btn bg-teal-500 text-white uppercase font-serif lg:ml-[600px] ml-40 mt-14 hover:text-teal-500 hover:bg-white">See More</button></Link>
         </div>
     );
 };
