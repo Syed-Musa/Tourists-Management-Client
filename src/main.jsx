@@ -16,7 +16,6 @@ import MyList from './Pages/MyList/MyList';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import UpdateTourSpots from './Components/Updates/UpdateForm';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
-import PrivateRoute from './Providers/PrivateRoute';
 
 
 const queryClient = new QueryClient();
@@ -35,13 +34,13 @@ const router = createBrowserRouter([
 
       {
         path: '/touristsSpot/:id',
-        element: <PrivateRoute><TouristsSpotDtls></TouristsSpotDtls></PrivateRoute>,
+        element: <TouristsSpotDtls></TouristsSpotDtls>,
         loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/touristsSpot/${params.id}`)
       },
 
       {
         path: '/countrySideSpot/:id',
-        element: <PrivateRoute><CountrySideSpotDtls></CountrySideSpotDtls></PrivateRoute>,
+        element: <CountrySideSpotDtls></CountrySideSpotDtls>,
         loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/countrySideSpot/${params.id}`)
       },
 
@@ -52,13 +51,13 @@ const router = createBrowserRouter([
 
       {
         path: '/alltourists/:id',
-        element: <PrivateRoute><AllTouristsSpotDtls></AllTouristsSpotDtls></PrivateRoute>,
+        element: <AllTouristsSpotDtls></AllTouristsSpotDtls>,
         loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/alltourists/${params.id}`)
       },
 
       {
         path: '/addTourSpots',
-        element: <PrivateRoute><AddTourSpots></AddTourSpots></PrivateRoute>,
+        element: <AddTourSpots></AddTourSpots>,
         loader: ({params}) => fetch(`https://tourism-management-server-phi.vercel.app/addtourSpot/${params.id}`)
       },
 
